@@ -1,4 +1,4 @@
-# 🎯 Mega Menu – University Website
+# 🎯 Mega Menu –Korean University Website
 
 A responsive and dynamic mega menu built for a Korean university website, focusing on clean UI and smooth user interaction.
 
